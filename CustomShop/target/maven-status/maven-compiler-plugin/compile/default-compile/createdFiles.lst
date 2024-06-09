@@ -1,0 +1,9 @@
+bgprotobg\net\customshop\CustomShop.class
+bgprotobg\net\customshop\BlockBreak.class
+bgprotobg\net\customshop\SQLHandler.class
+bgprotobg\net\customshop\EconomySetup.class
+bgprotobg\net\customshop\PlayerInteract.class
+bgprotobg\net\customshop\BlockPlace.class
+bgprotobg\net\customshop\SQLHandler$ShopData.class
+bgprotobg\net\customshop\InventoryClick.class
+bgprotobg\net\customshop\Commands.class

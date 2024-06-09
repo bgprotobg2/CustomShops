@@ -1,0 +1,13 @@
+name: CustomShop
+version: '${project.version}'
+main: bgprotobg.net.customshop.CustomShop
+api-version: '1.20'
+commands:
+  customshop:
+    usage: /<command>
+    description: Main command for the CustomShop plugin
+    aliases: [cs]
+permissions:
+  customshop.give:
+    description: Allows the player to give custom shop items to others
+    default: op
